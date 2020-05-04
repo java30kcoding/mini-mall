@@ -1,1 +1,2 @@
 /* pages/cart/index.wxss */
+@import'/dist/style/weui.wxss';

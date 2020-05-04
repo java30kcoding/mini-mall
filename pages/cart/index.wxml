@@ -1,2 +1,6 @@
-<!--pages/cart/index.wxml-->
-<text>pages/cart/index.wxml</text>
+
+<a class="weui-btn_cell weui-btn_cell-primary">
+  <image class="weui-btn_cell__icon" src="https://api-hmugo-web.itheima.net/pyg/icon_index_nav_4@2x.png"></image>
+  行李配送
+</a>
+  
